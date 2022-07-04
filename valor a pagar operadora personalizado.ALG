@@ -1,4 +1,4 @@
-Algoritmo "terreno"
+Algoritmo "operador com descritivo"
 
 Var
 
